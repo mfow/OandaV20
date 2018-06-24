@@ -2,9 +2,9 @@
 
 namespace OkonkwoOandaV20.TradeLibrary.DataTypes.Communications
 {
-   public class PositionCloseErrorResponse : ErrorResponse
-   {
-      public MarketOrderRejectTransaction longOrderRejectTransaction { get; set; }
-      public MarketOrderRejectTransaction shortOrderRejectTransaction { get; set; }
-   }
+    public class PositionCloseErrorResponse : ErrorResponse
+    {
+        public MarketOrderRejectTransaction longOrderRejectTransaction { get; set; }
+        public MarketOrderRejectTransaction shortOrderRejectTransaction { get; set; }
+    }
 }

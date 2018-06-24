@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 namespace OkonkwoOandaV20.TradeLibrary.DataTypes.Communications
 {
-   public class AccountsResponse : Response
-	{
-		public List<AccountProperties> accounts;
-	}
+    public class AccountsResponse : Response
+    {
+        public List<AccountProperties> accounts;
+    }
 }

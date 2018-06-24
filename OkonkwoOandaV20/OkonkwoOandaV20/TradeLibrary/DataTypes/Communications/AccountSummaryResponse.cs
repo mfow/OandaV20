@@ -2,8 +2,8 @@
 
 namespace OkonkwoOandaV20.TradeLibrary.DataTypes.Communications
 {
-   public class AccountSummaryResponse : Response
-   {
-      public AccountSummary account { get; set; }
-   }
+    public class AccountSummaryResponse : Response
+    {
+        public AccountSummary account { get; set; }
+    }
 }

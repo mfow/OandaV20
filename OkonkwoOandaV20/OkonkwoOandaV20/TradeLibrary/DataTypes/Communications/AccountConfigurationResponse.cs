@@ -2,8 +2,8 @@
 
 namespace OkonkwoOandaV20.TradeLibrary.DataTypes.Communications
 {
-   public class AccountConfigurationResponse : Response
-   {
-      public ClientConfigureTransaction clientConfigureTransaction;
-   }
+    public class AccountConfigurationResponse : Response
+    {
+        public ClientConfigureTransaction clientConfigureTransaction;
+    }
 }

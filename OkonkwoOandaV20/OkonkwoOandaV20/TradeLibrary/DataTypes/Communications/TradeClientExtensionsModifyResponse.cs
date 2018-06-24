@@ -2,8 +2,8 @@
 
 namespace OkonkwoOandaV20.TradeLibrary.DataTypes.Communications
 {
-   public class TradeClientExtensionsModifyResponse : Response
-   {
-      public TradeClientExtensionsModifyTransaction tradeClientExtensionsModifyTransaction { get; set; }
-   }
+    public class TradeClientExtensionsModifyResponse : Response
+    {
+        public TradeClientExtensionsModifyTransaction tradeClientExtensionsModifyTransaction { get; set; }
+    }
 }

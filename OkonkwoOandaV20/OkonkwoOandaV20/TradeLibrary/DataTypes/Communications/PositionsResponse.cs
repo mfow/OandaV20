@@ -2,8 +2,8 @@
 
 namespace OkonkwoOandaV20.TradeLibrary.DataTypes.Communications
 {
-   public class PositionsResponse : Response
-   {
-      public List<Position.Position> positions { get; set; }
-   }
+    public class PositionsResponse : Response
+    {
+        public List<Position.Position> positions { get; set; }
+    }
 }
